@@ -4,5 +4,5 @@
 - $ npm i
 # Paso 2
 - Levantar el servidor puerto 3000
-- % npm run dev
+- $ npm run dev
   
